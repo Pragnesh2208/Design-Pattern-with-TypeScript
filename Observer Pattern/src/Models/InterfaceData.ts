@@ -1,4 +1,5 @@
+type Season = "Monsoon" | "Summer" | "Winter";
 export interface InterfaceData {
   tempreture: number;
-  season: string;
+  season: Season;
 }
