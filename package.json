@@ -1,0 +1,34 @@
+{
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  },
+  "name": "design-pattern",
+  "description": "I have Created Pattern wise folder. Go into Particular Pattern Folder and run npm start.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "acorn": "^8.10.0",
+    "acorn-walk": "^8.2.0",
+    "arg": "^4.1.3",
+    "create-require": "^1.1.1",
+    "diff": "^4.0.2",
+    "make-error": "^1.3.6",
+    "v8-compile-cache-lib": "^3.0.1",
+    "yn": "^3.1.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pragnesh2208/Design-Pattern-with-TypeScript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pragnesh2208/Design-Pattern-with-TypeScript/issues"
+  },
+  "homepage": "https://github.com/Pragnesh2208/Design-Pattern-with-TypeScript#readme"
+}
